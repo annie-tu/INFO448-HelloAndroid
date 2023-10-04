@@ -123,6 +123,8 @@ Please:
 * Change the "Hello World" text edit to read "Go Seahawks!" or "Go Dawgs!" or "Cougars suck!" or anything more interesting than "Hello World!"
 * Change the displayed name of the app (in the Android home screen) to "Hello". (This will require you to do a little Googling, but I want you to know how to do this, just in case you mis-type the application name or need to change it once you've generated the project. Trust me, typos happen.)
 
+https://stackoverflow.com/questions/5443304/how-to-change-an-android-apps-name
+
 Rebuild and re-deploy.
 
 ## Capture the Magic
@@ -143,5 +145,7 @@ We will clone and build it from your GitHub repo. We will not get code from any 
 * Extra credit:
     * 1 pt: Figure out how to turn on "Show layout bounds" in Developer options, and take a video of your device with that setting turned on. (This is helpful when debugging layout issues in your apps.)
     * 1 pt: Choose another developer option from the Developer Options screen, research what it's used for, and write up a quick paragraph (in your copy of this README file) on whether you believe you will use this feature during class this quarter.
+
+**Pointer location** is another feature in developer options that draws a tracer line showing where the screen has been touched. At the top of the screen, it shows the X and Y coordinates of its exact location. It also shows the velocity of the touch point, pressure, and size. I could see myself using this feature to track user movements to improve the accuracy of the placement of interactive features like buttons or sliders. It would also help with troubleshooting issues with the application responding to the touch screen.
 
 When you turn in the homework in Canvas, put in the link to your GitHub repo.
